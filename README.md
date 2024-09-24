@@ -17,9 +17,10 @@ Este projeto é um programa simples em C# que permite calcular a idade de uma pe
 ## 📂 Estrutura do Projeto
 
 .
-├── Program.cs          # Arquivo principal do programa
-├── .gitignore          # Arquivo para ignorar arquivos e pastas no Git
-└── README.md           # Documentação do projeto
+├── 📂bin       
+├── CalculaIdade.csproj  # Arquivo principal do programa
+├── 📂obj 
+└── Program.cs       
 
 ## 📝 Exemplos de Uso
 
