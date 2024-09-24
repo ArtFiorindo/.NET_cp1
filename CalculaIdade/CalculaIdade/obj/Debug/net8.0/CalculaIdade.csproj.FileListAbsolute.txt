@@ -1,0 +1,14 @@
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\bin\Debug\net8.0\CalculaIdade.exe
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\bin\Debug\net8.0\CalculaIdade.deps.json
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\bin\Debug\net8.0\CalculaIdade.runtimeconfig.json
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\bin\Debug\net8.0\CalculaIdade.dll
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\bin\Debug\net8.0\CalculaIdade.pdb
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\obj\Debug\net8.0\CalculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\obj\Debug\net8.0\CalculaIdade.AssemblyInfoInputs.cache
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\obj\Debug\net8.0\CalculaIdade.AssemblyInfo.cs
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\obj\Debug\net8.0\CalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\obj\Debug\net8.0\CalculaIdade.dll
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\obj\Debug\net8.0\refint\CalculaIdade.dll
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\obj\Debug\net8.0\CalculaIdade.pdb
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\obj\Debug\net8.0\CalculaIdade.genruntimeconfig.cache
+C:\Users\eduardofuncao\source\repos\CalculaIdade\CalculaIdade\obj\Debug\net8.0\ref\CalculaIdade.dll
